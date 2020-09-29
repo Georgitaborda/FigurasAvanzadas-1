@@ -12,7 +12,7 @@ public class App {
 
         g.listarFigurasColeccionadas();
 
-        g.listarFigurasOrdenadas();
+          g.listarFigurasOrdenadas();
 
         g.listarFigurasSegunDistanciaAlOrigen();
 
